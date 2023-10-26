@@ -1,4 +1,4 @@
 ```java
-Git is a distributed control system.
+Git is a distributed system.
 Git is free software.
 ```
